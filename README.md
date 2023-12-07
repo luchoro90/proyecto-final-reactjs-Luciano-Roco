@@ -59,7 +59,7 @@ Agustin Diaz
 Clone the project
 
 ```bash
-  git clone https://github.com/luchoro90/proyectoFinal-Luciano-Roco
+  git clone https://github.com/luchoro90/proyecto-final-reactjs-Luciano-Roco
 ```
 
 Go to the project directory
